@@ -1,0 +1,82 @@
+body{
+    background-color:#F5F0DC ;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 940px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2{
+    background-color: #B3A742;
+    background:-webkit-linear-gradient(top,#9C8F67,#C7BE9E 30%);
+    border-radius: 15px;
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    
+}
+#titulo{
+    text-align: center;
+}
+
+nav{
+    width: 200px;
+    float: left;
+}
+
+#conteudo{
+    width: 740px;
+    float: right;
+}
+nav ul li{
+    background-color: #C7BE9B;
+    margin-bottom: 3px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+nav ul li:hover{
+    background-color: #9C8F67;
+}
+nav ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+h3{
+    background-color: #B3A742;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    color: #FFFFFF;
+}
+figure{
+    background-color: white;
+    width: 350px;
+    text-align:center;
+    padding:35px;
+    font-family: 'Comic Sans MS',cursive;
+    border: 1px solid black;
+    box-shadow: 5px 5px 3px rgba(0,0,0,0,7);
+    -webkit-transform: rotate(-5deg);
+}
+
+#t-nutrientes{
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
+}
+#t-nutrientes th{
+    background-color: #FFFFFF;
+}
+
+
+
+#topo{
+    text-align: center;
+}
